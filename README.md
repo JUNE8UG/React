@@ -1,2 +1,2 @@
 # React
-repository of React projects and coding challenges
+Repository of React projects and coding challenges
